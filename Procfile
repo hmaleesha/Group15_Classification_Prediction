@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Heartfailure_Predict_App.py
